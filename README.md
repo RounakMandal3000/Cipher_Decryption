@@ -1,1 +1,2 @@
 # Cipher_Decryption
+Substitution ciphers or the famous Ceaser's Cipher are a type of cipher which encodes one letter with any other letter of the alphabetical order. So the word index is randomly aligned and each letter is encoded by something else which remains fixed throughout the document. THe goal of this project is to use Markov Chains to analyze all the bigrams and trigrams from the document and using Genetic Algorithms with Log Likelihood as measure of correction/accuracy to find the original substitution map
